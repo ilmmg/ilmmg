@@ -27,7 +27,7 @@ Busco un rol **100% remoto** como Desarrollador Full Stack / Backend o en automa
 
 ### 🚀 Proyecto destacado
 
-**[RM Servicio Técnico](https://servicio-tecnico-rm.vercel.app)** · [código](https://github.com/ilmmg/servicio-tecnico-rm)
+**[RM Servicio Técnico](https://servicio-tecnico-rm.vercel.app)** · [código](https://github.com/ilmmg/servicio-tecnico-rm)<br>
 Aplicación web para una pyme de reparación de electrodomésticos, hecha con Next.js, TypeScript y Tailwind CSS y desplegada en Vercel.
 
 ---
